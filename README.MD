@@ -9,14 +9,10 @@ The app in the GIF shows how to use the [cordova-plugin-video-editor](https://gi
 #### I am no longer maintaining this project. PRs are welcome.
 
 ## Installation
-```
-cordova plugin add cordova-plugin-instagram-assets-picker
-```
-`InstagramAssetsPicker` will be available globally after deviceready.
 
 To install the latest code from this repo (may be unstable) -
 ```
-cordova plugin add https://github.com/rossmartin/cordova-plugin-instagram-assets-picker.git
+cordova plugin add https://github.com/lalit-mohan-negi/cordova-plugin-instagram-assets-picker.git
 ```
 
 #### You may have to update your Xcode project Header Search Paths manually
